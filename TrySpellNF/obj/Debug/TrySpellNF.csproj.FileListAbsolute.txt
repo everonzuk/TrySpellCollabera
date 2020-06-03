@@ -1,0 +1,7 @@
+D:\OneDFolder\PracticeSamples\TrySpellNF\bin\Debug\TrySpellNF.exe.config
+D:\OneDFolder\PracticeSamples\TrySpellNF\bin\Debug\TrySpellNF.exe
+D:\OneDFolder\PracticeSamples\TrySpellNF\bin\Debug\TrySpellNF.pdb
+D:\OneDFolder\PracticeSamples\TrySpellNF\obj\Debug\TrySpellNF.csprojAssemblyReference.cache
+D:\OneDFolder\PracticeSamples\TrySpellNF\obj\Debug\TrySpellNF.csproj.CoreCompileInputs.cache
+D:\OneDFolder\PracticeSamples\TrySpellNF\obj\Debug\TrySpellNF.exe
+D:\OneDFolder\PracticeSamples\TrySpellNF\obj\Debug\TrySpellNF.pdb
